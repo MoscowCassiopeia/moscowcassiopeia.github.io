@@ -23,6 +23,8 @@
 
 ![Biology](https://moscowcassiopeia.github.io/files/biology01.jpg){:class="img-responsive"}
 ![Biology](https://moscowcassiopeia.github.io/files/biology01.jpg){:height="50%" width="50%"}
+![Biology](https://moscowcassiopeia.github.io/files/biology01.jpg){:height="700px" width="400px"}
+
 ---
 
 ## ИЗО
