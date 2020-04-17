@@ -5,7 +5,7 @@
 
 ---
 
-[New Post]{% post_url /_posts/2020-04-17-new-post %}
+[New Post]({% post_url /_posts/2020-04-17-new-post %})
 
 
 # Домашнее задание по предметам
