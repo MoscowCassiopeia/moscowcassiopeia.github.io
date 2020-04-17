@@ -27,6 +27,7 @@
 
 ## ИЗО
 `14.04`
+
 <img src="https://i.ibb.co/RDFjtP2/izo.jpg" alt="IZO" width="200"/>
 
 ---
