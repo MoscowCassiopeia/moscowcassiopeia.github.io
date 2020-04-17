@@ -21,7 +21,7 @@
 - [Ссылка на урок](https://resh.edu.ru/subject/lesson/6759/start/268840/)
 - [На видео урок](https://resh.edu.ru/subject/lesson/6759/main/268844/)
 
-![Biology](https://moscowcassiopeia.github.io/files/biology01.jpg#thumbnail)
+![Biology](https://moscowcassiopeia.github.io/files/biology01.jpg#thumbnail | width=100)
 
 ---
 
