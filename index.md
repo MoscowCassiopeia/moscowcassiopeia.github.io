@@ -21,7 +21,7 @@
 - [Ссылка на урок](https://resh.edu.ru/subject/lesson/6759/start/268840/)
 - [На видео урок](https://resh.edu.ru/subject/lesson/6759/main/268844/)
 
-![Biology](https://moscowcassiopeia.github.io/files/biology01.jpg){:height="100px" width="100px"}
+![Biology](https://moscowcassiopeia.github.io/files/biology01.jpg#thumbnail)
 
 ---
 
@@ -33,6 +33,7 @@
 `14.04`
 >Урок по общ.п.11.Наша родина-Россия.рубрика В классе и дома.задание номер 3.стр.98.ответ отправить до 22.04 и только на адрес  <marina-yusupova-00@list.ru>   Марина Ивановна.желаю успехов!
 - [x] 15.04 Выполнено. На email.
+
 ---
 
 ## Кубановедение
