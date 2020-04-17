@@ -123,7 +123,7 @@
 >Попандопуло С.В.
 >Адрес почты: <svettvp@yandex.ru>
 >P.S. Отправляю вам ссылку на видео по правилу "оборот to be going to" Смотреть только до 2 мин 37 сек👇
-<https://m.youtube.com/watch?feature=youtu.be&v=dCpMIGx5Bdk#dialog>
+><https://m.youtube.com/watch?feature=youtu.be&v=dCpMIGx5Bdk#dialog>
 
 `UPD 17.04`
 
