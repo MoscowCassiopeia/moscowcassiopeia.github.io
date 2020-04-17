@@ -21,9 +21,10 @@
 - [Ссылка на урок](https://resh.edu.ru/subject/lesson/6759/start/268840/)
 - [На видео урок](https://resh.edu.ru/subject/lesson/6759/main/268844/)
 
-![Biology](https://moscowcassiopeia.github.io/files/biology01.jpg){:class="img-responsive"}
-![Biology](https://moscowcassiopeia.github.io/files/biology01.jpg){:height="50%" width="50%"}
-![Biology](https://moscowcassiopeia.github.io/files/biology01.jpg){:height="700px" width="400px"}
+![Biology](https://moscowcassiopeia.github.io/files/biology01.jpg)
+[[https://moscowcassiopeia.github.io/files/biology01.jpg | width=100px | alt=Biology]]
+
+
 
 ---
 
