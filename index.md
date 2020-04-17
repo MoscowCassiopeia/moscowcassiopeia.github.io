@@ -268,12 +268,12 @@
 
 Название | Адрес
 -- | --
-Российская электронная школа | http://www.resh.edu.ru
-Портал Якласс | http://www.yaklass.ru
-Портал Яндекс-учебник | https://education.yandex.ru/home/
-Портал Учи.ру | http://www.uchi.ru
-Портал Фоксфорд | http://www.foxford.ru
-Портал Инфоурок | http://www.infourok.ru
-Образовательный портал для подготовки к экзаменам | http://www.sdamgia.ru
+Российская электронная школа | <http://www.resh.edu.ru>
+Портал Якласс | <http://www.yaklass.ru>
+Портал Яндекс-учебник | <https://education.yandex.ru/home>
+Портал Учи.ру | <http://www.uchi.ru>
+Портал Фоксфорд | <http://www.foxford.ru>
+Портал Инфоурок | <http://www.infourok.ru>
+Образовательный портал для подготовки к экзаменам | <http://www.sdamgia.ru>
 
 
