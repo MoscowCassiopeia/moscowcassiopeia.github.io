@@ -21,17 +21,13 @@
 - [Ссылка на урок](https://resh.edu.ru/subject/lesson/6759/start/268840/)
 - [На видео урок](https://resh.edu.ru/subject/lesson/6759/main/268844/)
 
-![Biology](https://moscowcassiopeia.github.io/files/biology01.jpg)
 <img src="https://moscowcassiopeia.github.io/files/biology01.jpg" alt="Biology" width="200"/>
-
-
 
 ---
 
 ## ИЗО
 `14.04`
-
-![ИЗО](https://i.ibb.co/RDFjtP2/izo.jpg)
+<img src="https://i.ibb.co/RDFjtP2/izo.jpg" alt="IZO" width="200"/>
 
 ---
 
@@ -159,8 +155,8 @@
 >Задание выдано блоком на 2 дня
 >ДЗ: записать в тетрадь алгоритм деления десятичной дроби на десятичную дробь, решить выделенные уравнения
 
->![](https://i.ibb.co/WzFbqHV/maths.jpg)
->![](https://i.ibb.co/7rZNNc2/maths2.jpg)
+><img src="https://i.ibb.co/WzFbqHV/maths.jpg" alt="Maths1" width="200"/>
+><img src="https://i.ibb.co/7rZNNc2/maths2.jpg" alt="Maths1" width="200"/>
 
 - [x] 15.04 Выполнено. На email.
 
