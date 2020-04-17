@@ -110,7 +110,7 @@ https://m.youtube.com/watch?feature=youtu.be&v=dCpMIGx5Bdk#dialog
 
 `UPD 17.04`
 
-[Голосовое сообщение](files/2020-04-17.ogg)
+- [Голосовое сообщение](files/2020-04-17.ogg)
 
 - [ ] 16.04 Частично Выполнено. На email.
 
