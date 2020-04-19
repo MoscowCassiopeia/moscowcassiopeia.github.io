@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 name: АДЗ
 title: АДЗ - Агрегатор Домашнего Задания
 markdown: kramdown
