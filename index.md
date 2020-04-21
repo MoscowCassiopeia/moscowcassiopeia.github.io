@@ -291,7 +291,7 @@
 Английский (Зарема Борисовна) | <www.spirit@mail.ru>
 ИЗО | <renault1990@list.ru>
 Музыка | <shkurashivskaya.tatyana@mail.ru>
-Кубановедение | Отправлять через [Сетевой Город](https://sgo.rso23.ru)
+Кубановедение | <bushueva2372@mail.ru>
 Физкультура | Отправлять через [Сетевой Город](https://sgo.rso23.ru)
 
 
