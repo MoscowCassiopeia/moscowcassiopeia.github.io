@@ -100,8 +100,8 @@
 
 #### `14.04`
 
-[Отделка (pptx)](https://corona.novokurkino.net/files/otdelka.pptx)
-[Сборка изделий из металла (pptx)](https://corona.novokurkino.net/files/sborka.pptx)
+- [Отделка (pptx)](https://corona.novokurkino.net/files/otdelka.pptx)
+- [Сборка изделий из металла (pptx)](https://corona.novokurkino.net/files/sborka.pptx)
 
 > Тема урока: Сборка и отделка изделий из тонколистового металла, проволоки и пластмассы.
 >
