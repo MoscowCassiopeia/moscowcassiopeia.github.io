@@ -94,6 +94,14 @@
 >3. Прислать фото на электронную почту <volchkova.ir@yandex.ru>!!!!!
 >НЕ В СЕТЕВОЙ, на ПОЧТУ!!!!!
 
+#### `27.04`
+
+>Добрый день.  Домашнее задание: 
+>
+>1. Параграф 12 прочитать, выписать основные понятия и определения.
+>2. Провести опыт "Определение свежести яиц" 
+>3. Прислать на эл. почту [volchkova.ir@yandex.ru](mailto:volchkova.ir@yandex.ru) описание опыта и результаты вашего опыта.
+
 ### Мальчики
 
 ---
@@ -372,8 +380,8 @@
 >
 >1. закрепление знаний по теме: сложение десятичных дробей (карточка)
 >2. закрепление знаний по теме: умножение дес. дробей (карточка)
->   интересные факты из мира математики
->   https://zen.yandex.ru/media/haknem_shkola/matematika--ne-skuchnaia-nauka-interesnye-matematicheskie-fakty-o-kotoryh-vy-ne-znali-5e9d4f122fb26236c5a879b7
+>     интересные факты из мира математики
+>     https://zen.yandex.ru/media/haknem_shkola/matematika--ne-skuchnaia-nauka-interesnye-matematicheskie-fakty-o-kotoryh-vy-ne-znali-5e9d4f122fb26236c5a879b7
 
 > Выполни умножение:
 >
