@@ -108,9 +108,19 @@ title:  "Welcome to Jekyll!"
 
 **Good! Very good!** - Предложения исключения.
 
-
-
 ---
+
+**Sit down** - Присесть
+
+**Famous** - Знаменитый
+
+**Nurse** - Медсестра
+
+**Mountain** - Гора
+
+**Perfectly** - Прекрасно
+
+**Let,s** + глагол - Давай *что-то* (Let,s translate - Давайте переводить)
 
 ## Future Simple (begin lesson 72)
 
@@ -142,7 +152,7 @@ He worked - Он работал
 
 В данном случае (past simple) смотрим на вторую форму глагола.
 
-| Первая форма | Вторая форма | Третья форма |Перевод|
+| Basic Form | Past Simple | Past Participle |Meaning|
 | ------------ | ------------ | ------------ | ------------ |
 | Go           | Went         | Gone         |Ехать, Идти|
 | Do           | Did          | Done         |Делать|
@@ -169,7 +179,7 @@ He worked - Он работал
 | Buy | Bought | Bought |Покупать|
 | Cost | Cost[^2] | Cost |Стоить|
 | Hear | Heard | Heard |Слышать|
-| Learn[^3] | Learnt | Learnt |Изучать|
+| Learn[^3] | Learnt / Learned | Learnt / Learned |Изучать|
 | Sell | Sold | Sold |Продавать|
 | Speak | Spoke | Spoken |Говорить (на каком-то языке)|
 | Spend | Spent | Spent |Тратить, Проводить (время)|
