@@ -8,7 +8,7 @@ title:  "Welcome to Jekyll!"
 
 **Much less** - Намного мньше
 
-**So much** - Так сильно (утойчивая фраза) 
+**So much** - Так сильно (устойчивая фраза) 
 
 **Learn** - **Learned** (Прошедшая форма) - **Learnt** (Еще один вариант прошедшей формы)
 
@@ -48,11 +48,21 @@ title:  "Welcome to Jekyll!"
 
 **Other** - другие (множественное)
 
+---
+
+
+
 **Marry** - жениться / выходить замуж
 
 **Marry him** - Выйти замуж за него
 
 **Marry her** - Жениться на ней
+
+**Married** - если <u>они</u> поженились (They didn't get married)
+
+---
+
+
 
 **Got** - вторая форма (прошедшее время) глагола Get
 
@@ -122,6 +132,56 @@ title:  "Welcome to Jekyll!"
 
 **Let,s** + глагол - Давай *что-то* (Let,s translate - Давайте переводить)
 
+**Happily / Unhappily** - Счастливо / Несчастливо  (Наречие)
+
+---
+
+**Decide / Solve** - Решить (что то сделать) / Решить (конкретно что-то)
+What did you decide to do?
+How did you solve this problem?
+
+---
+**At all** - Вовсе (ставится в конце предложения  **It wasn't boring at all**)
+
+---
+
+**Man** - мужчина
+
+**Men** - мужчины
+
+---
+
+**Tiring** - Уставший
+
+---
+
+**Refuse / Refusal** - Отказываться / Отказ
+
+---
+
+**Crime / Criminal** - Криминал / Преступник
+
+---
+
+**Anniversary** - Годовщина (We celebrated our anniversary - Мы отпраздновали нашу годовщину)
+
+---
+
+**Agree** - Соглашаться [ verb (глагол) ] / **Tired** - Уставший [ adjective (прилагательное) ]
+
+I agree / I din't agree / Do you agree?
+
+I'm tired / I'm not tired / Are you tired?
+
+---
+
+
+
+
+
+
+
+
 ## Future Simple (begin lesson 72)
 
 ### Утверждение
@@ -147,6 +207,88 @@ I work - Я работаю
 
 I worked - Я работал
 He worked - Он работал
+
+|             |                   |                                       |
+| ----------- | ----------------- | ------------------------------------- |
+| Worry       | worried [d]       | Волноваться                           |
+| Look        | Looked [t]        | Смотреть                              |
+| Train       | Trained [d]       | Тренироваться                         |
+| Talk        | Talked [t]        | Говорить, Обсуждать                   |
+| Change      | Changed [d]       | Менять                                |
+| Correct     | Corrected [id]    | Исправлять                            |
+| Save        | Saved [d]         | Сохранять, Спасти                     |
+| Seem        | Seemed [d]        | Казаться                              |
+| Interest    | Interested [id]   | Интерес, Интересовать                 |
+| Help        | Helped [t]        | Помогать                              |
+| Improve     | Improved [d]      | Улучшать                              |
+| Shock       | Shocked [t]       | Шокировать                            |
+| Start       | Started [id]      | Начинать                              |
+| Want        | Wanted [id]       | Хотеть                                |
+| Need        | Needed [id]       | Нуждаться                             |
+| Close       | Closed [d]        | Закрывать                             |
+| Continue    | Continued [d]     | Продолжать                            |
+| Play        | Played [d]        | Играть                                |
+| Return      | Returned [d]      | Возвращаться                          |
+| Agree       | Agreed [d]        | Соглашаться                           |
+| Open        | Opened [d]        | Открывать                             |
+| Happen      | Happened [d]      | Происходить, Случаться                |
+| Finish      | Finished [t]      | Заканчивать                           |
+| Travel      | Travelled [d]     | Путешествовать                        |
+| Follow      | Followed [d]      | Следовать                             |
+| Discuss     | Discussed [t]     | Обсуждать                             |
+| Live        | Lived [d]         | Жить                                  |
+| Listen      | Listened [d]      | Слушать                               |
+| Prefer      | Preferred [d]     | Предпочитать                          |
+| Order       | Ordered [d]       | Заказывать                            |
+| Marry       | Married [d]       | Жениться, Выходить замуж              |
+| Try         | Tried [d]         | Пытаться, Стараться                   |
+| Like        | Liked [t]         | Нравиться                             |
+| Repeat      | Repeated [id]     | Повторять (какую то фразу)            |
+| Love        | Loved [d]         | Любить                                |
+| Watch       | Watched [t]       | Смотреть (телевизор)                  |
+| Communicate | Communicated [id] | Общаться                              |
+| Study       | Studied [d]       | Учиться                               |
+| Invest      | Invested [id]     | Инвестировать, Вкладывать             |
+| Surprise    | Surprised [d]     | Удивлять                              |
+| Pass        | Passed [t]        | Сдавать (Экзамен, Тест)               |
+| Behave      | Behaved [d]       | Вести себя                            |
+| Control     | Controlled [d]    | Контролировать                        |
+| Kill        | Killed [d]        | Убивать                               |
+| Earn        | Earned [d]        | Зарабатывать                          |
+| Work        | Worked [t]        | Работать                              |
+| Visit       | Visited [d]       | Посещать, Навещать                    |
+| Translate   | Translated [id]   | Переводить                            |
+| Motivate    | Motivated [id]    | Мотивировать                          |
+| Decide      | Decided [id]      | Решить (что то сделать)               |
+| Remember    | Remembered [d]    | Помнить                               |
+| Support     | Supported [id]    | Поддерживать                          |
+| Refuse      | Refused           | Отказываться                          |
+| Use         | Used [d]          | Пользоваться                          |
+| Recommend   | Recommended [id]  | Рекомендовать                         |
+| Wait        | Waited [id]       | Ждать                                 |
+| Cook        | Cooked [t]        | Готовить                              |
+| Check       | Checked [t]       | Проверять                             |
+| Sign        | Signed [d]        | Подписывать (какой то документ), Знак |
+| Ask         | Asked [t]         | Спрашивать, Задавать                  |
+| Celebrate   | Celebrated [id]   | Праздновать                           |
+
+   
+
+#### Правила произношения правильных глаголов (Past Simple)
+
+1. Глухая или шипящая согласная
+   **p, k, sh, ch, gh, th, ss, c, x + ed ** читается как **[t]**
+   Wor**k**ed, Li**k**ed
+
+2. Звонкая гласная или согласная
+
+   **b, v, g, f, z, l, m, n, r** **/  a, e, i, o, u + ed** читается как **[d]**
+
+   cal**l**ed, tr**i**ed, happe**n**ed, u**s**ed
+
+3. **t, d + ed** читается как **[id]**
+
+   wan**t**ed, wai**t**ed, nee**d**ed
 
 ### Irregular verbs
 
@@ -189,11 +331,46 @@ He worked - Он работал
 | Run | Ran | Run |Бегать|
 | Sit | Sat | Sat |Сидеть|
 | Stand | Stood | Stood |Стоять|
-| Lose | Lost | Lost |Терять|
+| Lose | Lost | Lost |Терять, Проигрывать|
 | Build | Built | Built |Строить|
 | Eat | Ate | Eaten |Есть, Кушать|
 | Drink | Drank | Drunk |Пить|
 | Forget | Forgot | Frogotten |Забывать|
+| Leave | Left | Left |Уезжать, Оставлять, Забывать (какую то вещь)|
+|  |  |  ||
+
+
+
+### Отрицание 123 Lesson
+didn't + глагол (кроме глагола быть)
+
+I didn't want to know it - Я не хотел знать это
+
+### Отрицание глагола быть (was, were) 136 Lesson
+was --> wasn't
+were --> weren't
+
+### Вопрос с глаголом быть
+
+Was I / He / She / It ... ?
+
+Were / We / You /They ... ?
+
+С вопросительным словом:
+
+Why / Where / When +  (Were / We / You /They ... ? | Was I / He / She / It ... ?)
+
+С What:
+
+What **was** in that box?
+
+### Вопрос 125 Lesson
+
+Did + you / they / he... + глагол ?
+
+### Вопрос с вопросительным словом Lesson 127
+
+When/Why... + did + you/they/he ... + verb ... ?
 
 
 
@@ -206,25 +383,6 @@ He worked - Он работал
 
 
 
-
-
-
-
-### Правила произношения правильных глаголов (Past Simple)
-
-1. Глухая или шипящая согласная
-    **p, k, sh, ch, gh, th, ss, c, x + ed ** читается как **[t]**
-    Wor**k**ed, Li**k**ed
-
-2. Звонкая гласная или согласная
-
-   **b, v, g, f, z, l, m, n, r** **/  a, e, i, o, u + ed** читается как **[d]**
-
-   cal**l**ed, tr**i**ed, happe**n**ed, u**s**ed
-
-3. **t, d + ed** читается как **[id]**
-
-   wan**t**ed, wai**t**ed, nee**d**ed
 
 
 
