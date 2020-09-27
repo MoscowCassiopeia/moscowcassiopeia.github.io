@@ -48,6 +48,10 @@ title:  "Welcome to Jekyll!"
 
 **Other** - другие (множественное)
 
+**Quite** - Довольно
+
+
+
 ---
 
 
@@ -151,7 +155,7 @@ How did you solve this problem?
 
 ---
 
-**Tiring** - Уставший
+**Tiring** - Утомительный, Изнурительный
 
 ---
 
@@ -172,6 +176,10 @@ How did you solve this problem?
 I agree / I din't agree / Do you agree?
 
 I'm tired / I'm not tired / Are you tired?
+
+---
+
+**on time** - вовремя
 
 ---
 
