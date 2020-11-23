@@ -48,7 +48,13 @@ title:  "Welcome to Jekyll!"
 
 **Other** - другие (множественное)
 
-**Quite** - Довольно
+**Quite** - Довольно (quite easy  - довольно лёгкий) Используется с положительными прилагательными
+
+**Rather** - Довольно (rather difficult / rather boring / rather expensive) Используется с отрицательными прилагательными
+
+**Weak** - Слабый
+
+**Just** - только что / только
 
 
 
@@ -183,7 +189,9 @@ I'm tired / I'm not tired / Are you tired?
 
 ---
 
+**Sentence** - Предложение в тексте
 
+**Offer** - Предлагать что-то кому-то
 
 
 
@@ -279,6 +287,7 @@ He worked - Он работал
 | Sign        | Signed [d]        | Подписывать (какой то документ), Знак |
 | Ask         | Asked [t]         | Спрашивать, Задавать                  |
 | Celebrate   | Celebrated [id]   | Праздновать                           |
+|             |                   |                                       |
 
    
 
@@ -382,15 +391,54 @@ When/Why... + did + you/they/he ... + verb ... ?
 
 
 
+### Сокращенные и полные формы отрицания
 
+don't - do not
 
+doesn't - do not
 
+'m not - am not
 
+isn't - is not
 
+aren't - are not
 
+----
 
+## Запомнить
 
+Listen to ...
 
+Happen to ...
+
+Wait for ...
+
+I must do it **by** tomorrow - сделать к какому то времени (**by**)
+I must work hard **to** buy a car - Я должен работать усердно **что бы** купить машину (здесь **to** означает **что бы**)
+
+---
+
+We study it - Мы изучаем это
+
+We learn English - Мы изучаем Английский
+
+Если просто что-то изучать то испльзуем **Learn**, если  просто изучать используем **Study**
+
+---
+## Модальные глаголы
+Can - мочь, уметь (can + verb глагол ставится без изменений)
+
+Must - должен (must + verb глагол ставится без изменений)
+
+Should - следует (should + verb глагол ставится без изменений)
+
+Could - мог (I could do it yesterday) как прошедшая форма **can**
+
+Could - мог бы (You could help me now)
+
+### Отрицание
+
+Can't / Mustn't / Shouldn't + verb
 
 
 
