@@ -165,7 +165,7 @@ How did you solve this problem?
 
 ---
 
-**Refuse / Refusal** - Отказываться / Отказ
+**Of courseRefuse / Refusal** - Отказываться / Отказ
 
 ---
 
@@ -193,7 +193,27 @@ I'm tired / I'm not tired / Are you tired?
 
 **Offer** - Предлагать что-то кому-то
 
+---
 
+**Confident** - Уверенный
+
+**Confidently** - Уверенно
+
+**Confidence** - Уверенность
+
+---
+
+**Certain** - уверен
+
+**Certainly** - конечно
+
+---
+
+**Arrive** - Прибывать (I arrive in America)
+
+---
+
+Break down - ломаться
 
 
 
@@ -224,70 +244,70 @@ I work - Я работаю
 I worked - Я работал
 He worked - Он работал
 
-|             |                   |                                       |
-| ----------- | ----------------- | ------------------------------------- |
-| Worry       | worried [d]       | Волноваться                           |
-| Look        | Looked [t]        | Смотреть                              |
-| Train       | Trained [d]       | Тренироваться                         |
-| Talk        | Talked [t]        | Говорить, Обсуждать                   |
-| Change      | Changed [d]       | Менять                                |
-| Correct     | Corrected [id]    | Исправлять                            |
-| Save        | Saved [d]         | Сохранять, Спасти                     |
-| Seem        | Seemed [d]        | Казаться                              |
-| Interest    | Interested [id]   | Интерес, Интересовать                 |
-| Help        | Helped [t]        | Помогать                              |
-| Improve     | Improved [d]      | Улучшать                              |
-| Shock       | Shocked [t]       | Шокировать                            |
-| Start       | Started [id]      | Начинать                              |
-| Want        | Wanted [id]       | Хотеть                                |
-| Need        | Needed [id]       | Нуждаться                             |
-| Close       | Closed [d]        | Закрывать                             |
-| Continue    | Continued [d]     | Продолжать                            |
-| Play        | Played [d]        | Играть                                |
-| Return      | Returned [d]      | Возвращаться                          |
-| Agree       | Agreed [d]        | Соглашаться                           |
-| Open        | Opened [d]        | Открывать                             |
-| Happen      | Happened [d]      | Происходить, Случаться                |
-| Finish      | Finished [t]      | Заканчивать                           |
-| Travel      | Travelled [d]     | Путешествовать                        |
-| Follow      | Followed [d]      | Следовать                             |
-| Discuss     | Discussed [t]     | Обсуждать                             |
-| Live        | Lived [d]         | Жить                                  |
-| Listen      | Listened [d]      | Слушать                               |
-| Prefer      | Preferred [d]     | Предпочитать                          |
-| Order       | Ordered [d]       | Заказывать                            |
-| Marry       | Married [d]       | Жениться, Выходить замуж              |
-| Try         | Tried [d]         | Пытаться, Стараться                   |
-| Like        | Liked [t]         | Нравиться                             |
-| Repeat      | Repeated [id]     | Повторять (какую то фразу)            |
-| Love        | Loved [d]         | Любить                                |
-| Watch       | Watched [t]       | Смотреть (телевизор)                  |
-| Communicate | Communicated [id] | Общаться                              |
-| Study       | Studied [d]       | Учиться                               |
-| Invest      | Invested [id]     | Инвестировать, Вкладывать             |
-| Surprise    | Surprised [d]     | Удивлять                              |
-| Pass        | Passed [t]        | Сдавать (Экзамен, Тест)               |
-| Behave      | Behaved [d]       | Вести себя                            |
-| Control     | Controlled [d]    | Контролировать                        |
-| Kill        | Killed [d]        | Убивать                               |
-| Earn        | Earned [d]        | Зарабатывать                          |
-| Work        | Worked [t]        | Работать                              |
-| Visit       | Visited [d]       | Посещать, Навещать                    |
-| Translate   | Translated [id]   | Переводить                            |
-| Motivate    | Motivated [id]    | Мотивировать                          |
-| Decide      | Decided [id]      | Решить (что то сделать)               |
-| Remember    | Remembered [d]    | Помнить                               |
-| Support     | Supported [id]    | Поддерживать                          |
-| Refuse      | Refused           | Отказываться                          |
-| Use         | Used [d]          | Пользоваться                          |
-| Recommend   | Recommended [id]  | Рекомендовать                         |
-| Wait        | Waited [id]       | Ждать                                 |
-| Cook        | Cooked [t]        | Готовить                              |
-| Check       | Checked [t]       | Проверять                             |
-| Sign        | Signed [d]        | Подписывать (какой то документ), Знак |
-| Ask         | Asked [t]         | Спрашивать, Задавать                  |
-| Celebrate   | Celebrated [id]   | Праздновать                           |
-|             |                   |                                       |
+|             |                   |                                               |
+| ----------- | ----------------- | --------------------------------------------- |
+| Worry       | worried [d]       | Волноваться                                   |
+| Look        | Looked [t]        | Смотреть                                      |
+| Train       | Trained [d]       | Тренироваться                                 |
+| Talk        | Talked [t]        | Говорить, Обсуждать                           |
+| Change      | Changed [d]       | Менять                                        |
+| Correct     | Corrected [id]    | Исправлять                                    |
+| Save        | Saved [d]         | Сохранять, Спасти                             |
+| Seem        | Seemed [d]        | Казаться                                      |
+| Interest    | Interested [id]   | Интерес, Интересовать                         |
+| Help        | Helped [t]        | Помогать                                      |
+| Improve     | Improved [d]      | Улучшать                                      |
+| Shock       | Shocked [t]       | Шокировать                                    |
+| Start       | Started [id]      | Начинать                                      |
+| Want        | Wanted [id]       | Хотеть                                        |
+| Need        | Needed [id]       | Нуждаться                                     |
+| Close       | Closed [d]        | Закрывать                                     |
+| Continue    | Continued [d]     | Продолжать                                    |
+| Play        | Played [d]        | Играть                                        |
+| Return      | Returned [d]      | Возвращаться                                  |
+| Agree       | Agreed [d]        | Соглашаться                                   |
+| Open        | Opened [d]        | Открывать                                     |
+| Happen      | Happened [d]      | Происходить, Случаться                        |
+| Finish      | Finished [t]      | Заканчивать                                   |
+| Travel      | Travelled [d]     | Путешествовать                                |
+| Follow      | Followed [d]      | Следовать                                     |
+| Discuss     | Discussed [t]     | Обсуждать                                     |
+| Live        | Lived [d]         | Жить                                          |
+| Listen      | Listened [d]      | Слушать                                       |
+| Prefer      | Preferred [d]     | Предпочитать                                  |
+| Order       | Ordered [d]       | Заказывать                                    |
+| Marry       | Married [d]       | Жениться, Выходить замуж                      |
+| Try         | Tried [d]         | Пытаться, Стараться                           |
+| Like        | Liked [t]         | Нравиться                                     |
+| Repeat      | Repeated [id]     | Повторять (какую то фразу)                    |
+| Love        | Loved [d]         | Любить                                        |
+| Watch       | Watched [t]       | Смотреть (телевизор)                          |
+| Communicate | Communicated [id] | Общаться                                      |
+| Study       | Studied [d]       | Учиться                                       |
+| Invest      | Invested [id]     | Инвестировать, Вкладывать                     |
+| Surprise    | Surprised [d]     | Удивлять                                      |
+| Pass        | Passed [t]        | Сдавать (Экзамен, Тест)                       |
+| Behave      | Behaved [d]       | Вести себя                                    |
+| Control     | Controlled [d]    | Контролировать                                |
+| Kill        | Killed [d]        | Убивать                                       |
+| Earn        | Earned [d]        | Зарабатывать                                  |
+| Work        | Worked [t]        | Работать                                      |
+| Visit       | Visited [d]       | Посещать, Навещать                            |
+| Translate   | Translated [id]   | Переводить                                    |
+| Motivate    | Motivated [id]    | Мотивировать                                  |
+| Decide      | Decided [id]      | Решить (что то сделать)                       |
+| Remember    | Remembered [d]    | Помнить                                       |
+| Support     | Supported [id]    | Поддерживать                                  |
+| Refuse      | Refused           | Отказываться                                  |
+| Use         | Used [d]          | Пользоваться                                  |
+| Recommend   | Recommended [id]  | Рекомендовать                                 |
+| Wait        | Waited [id]       | Ждать                                         |
+| Cook        | Cooked [t]        | Готовить                                      |
+| Check       | Checked [t]       | Проверять                                     |
+| Sign        | Signed [d]        | Подписывать (какой то документ), Знак         |
+| Ask         | Asked [t]         | Спрашивать, Задавать                          |
+| Celebrate   | Celebrated [id]   | Праздновать                                   |
+| Lie         | Lied              | Врать (врать кому то, чему то Lie to/Lied to) |
 
    
 
@@ -323,7 +343,7 @@ He worked - Он работал
 | Feel | Felt | Felt |Чувствовать себя|
 | Say | Said | Said |Сказать (что-то)|
 | Tell | Told | Told |Сказать / Рассказать  (кому-то)|
-| Take | Took | Taken |Брать|
+| Take | Took | Taken |Брать, принимать|
 | Think | Thought | Thought |Думать|
 | Have | Had | Had |Иметь|
 | Give | Gave | Given |Давать|
@@ -338,7 +358,7 @@ He worked - Он работал
 | Buy | Bought | Bought |Покупать|
 | Cost | Cost[^2] | Cost |Стоить|
 | Hear | Heard | Heard |Слышать|
-| Learn[^3] | Learnt / Learned | Learnt / Learned |Изучать|
+| Learn[^3] | Learnt / Learned (правильный глагол) | Learnt / Learned (правильный глагол) |Изучать|
 | Sell | Sold | Sold |Продавать|
 | Speak | Spoke | Spoken |Говорить (на каком-то языке)|
 | Spend | Spent | Spent |Тратить, Проводить (время)|
@@ -354,7 +374,21 @@ He worked - Он работал
 | Drink | Drank | Drunk |Пить|
 | Forget | Forgot | Frogotten |Забывать|
 | Leave | Left | Left |Уезжать, Оставлять, Забывать (какую то вещь)|
-|  |  |  ||
+| Mean | Meant | Meant |Иметь в виду, означать|
+| Keep | Kept | Kept |Держать, сдерживать|
+| Show | Showed | Shown |Показывать|
+| Lead | Led | Led |Приводить, лидировать|
+| Feed | Fed | Fed |Кормить|
+| Cut | Cut | Cut |Резать, порезать|
+| Lie | Lay | Lain |Лежать|
+| Catch | Caught | Caught |Ловить, Поймать|
+| Grow | Grew | Grown |Расти, Вырастать|
+| Fly | Flew | Flown |Летать, лететь|
+| Put | Put | Put |Класть, ставить, положить|
+| Send | Sent | Sent |Посылать, отправлять|
+| Win | Won | Won |Выигрывать, побеждать|
+| Choose | Chose | Chosen |Выбирать|
+| Break | Broke | Broken |Ломать|
 
 
 
@@ -403,6 +437,14 @@ isn't - is not
 
 aren't - are not
 
+can't - can not
+
+wouldn't - would not
+
+couldn't - could not
+
+should - shouldn't
+
 ----
 
 ## Запомнить
@@ -413,8 +455,14 @@ Happen to ...
 
 Wait for ...
 
+Belong to ... (Принадлежать кому то)
+
+Smile at ... (Улыбнуться кому то)
+
+Depend on ... (Зависить от)
+
 I must do it **by** tomorrow - сделать к какому то времени (**by**)
-I must work hard **to** buy a car - Я должен работать усердно **что бы** купить машину (здесь **to** означает **что бы**)
+I must work hard **to** buy a car - Я должен работать усердно **что бы** купить машину (здесь **to** означает **что бы**)апомнит
 
 ---
 
@@ -438,7 +486,7 @@ Could - мог бы (You could help me now)
 
 ### Отрицание
 
-Can't / Mustn't / Shouldn't + verb
+Can't / Mustn't / Shouldn't + verbqq
 
 
 
