@@ -56,6 +56,12 @@ title:  "Welcome to Jekyll!"
 
 **Just** - только что / только
 
+**Bad** - плохой, **Worse** - хуже, **The worst** - худший
+
+**Way** - Путь, способ
+
+**Beautiful** - Красивый, **More beautiful** - Более красивый, **The most beautiful** - Самое красивое
+
 
 
 ---
@@ -213,6 +219,40 @@ I'm tired / I'm not tired / Are you tired?
 
 ---
 
+Прилагательные
+
+Different - различный, другой
+
+Important - важный
+
+Popular - популярный
+
+Basic - базовый (more basic - более базовый, the most basic - самый базовый)
+
+Difficult - сложный трудный
+
+Hot - жаркий
+
+Useful - полезный (more useful - более полезный, the most useful - самый полезный)
+
+Old - старый
+
+Political - политический
+
+Healthy - здоровый
+
+Financial - финансовый, финансовые
+
+Srong - сильный
+
+Successful - успешный
+
+Expensive - дорогой
+
+Interesting - интересный
+
+---
+
 Break down - ломаться
 
 
@@ -308,6 +348,8 @@ He worked - Он работал
 | Ask         | Asked [t]         | Спрашивать, Задавать                          |
 | Celebrate   | Celebrated [id]   | Праздновать                                   |
 | Lie         | Lied              | Врать (врать кому то, чему то Lie to/Lied to) |
+| Cry         | Cried             | Плакать, кричать                              |
+| Laugh (at)  | Laughed           | Смеяться                                      |
 
    
 
@@ -367,7 +409,7 @@ He worked - Он работал
 | Understand | Understood | Understood |Понимать|
 | Run | Ran | Run |Бегать|
 | Sit | Sat | Sat |Сидеть|
-| Stand | Stood | Stood |Стоять|
+| Stand | Stood | Stood |Стоять, становиться|
 | Lose | Lost | Lost |Терять, Проигрывать|
 | Build | Built | Built |Строить|
 | Eat | Ate | Eaten |Есть, Кушать|
@@ -389,6 +431,17 @@ He worked - Он работал
 | Win | Won | Won |Выигрывать, побеждать|
 | Choose | Chose | Chosen |Выбирать|
 | Break | Broke | Broken |Ломать|
+| Hide | Hid | Hidden |Прятать, прятаться|
+| Fight | Fought | Fought |Драться, сражаться|
+| Fall | Fell | Fallen |Падать|
+| Hurt | Hurt | Hurt |Повреждать, задеть|
+| Sleep | Slept | Slept |Спать|
+| Drive | Drove | Driven |Водить|
+| Begin | Began | Begun |Начинать|
+| Wake (up) | Woke (up) | Woken (up) |Просыпаться|
+| Steal | Stole | Stolen |Воровать, украсть|
+| Ride | Rode | Ridden |Кататься, ездить верхом|
+| Sing | Sang | Sung |Петь|
 
 
 
